@@ -1,0 +1,17 @@
+.bg-info-header{
+    background-color: #264653;
+}
+.bg-info-grayscale{
+    filter: grayscale(1);
+}
+.fas , .far{
+    color: #E77C40;
+    Width :18.34px;
+    Height :18.35px;
+}
+.btn-info-color{
+    background-color: #E76F51; 
+}
+.text-info-color{
+    color: #E76F51;
+}
